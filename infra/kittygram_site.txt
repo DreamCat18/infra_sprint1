@@ -1,0 +1,5 @@
+IP: 89.169.169.60;
+name_kittygram: https://kittygramproject16.ddns.net;
+name_taski: https://mytaskiproject.ddns.net;
+login: yc-user;
+password: AmeliaCat2007;
